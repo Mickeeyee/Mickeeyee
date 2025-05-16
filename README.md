@@ -1,4 +1,4 @@
-  Hi👋, I’m Mignesh Birdi(Mickeeyee)
+  Hi👋, I’m Mignesh Birdi (Mickeeyee)
 - 👀 A passionate cloud engineer dedicated to building scalable and secure cloud solutions.    
 - 🌱 I’m currently deepening my knowledge in AWS/Azure infrastructure,serverless architectures and cloud security best practices.
 - 💞️ I’m looking to collaborate on cloud-native projects,DevOps pipelines, and security best practices. 
