@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on cloud-native projects,DevOps pipelines, and security best practices. 
 - 📫 How to reach me: migneshbirdi@gmail.com | [LinkedIn](https://linkedin.com/in/migneshbirdi)
 - ⚡ Fun fact: I developed an e-commerce website hosted on AWS using services like VPC,EC2,aurora, WAF and Application load balancers with two regions.
+- 📄 [Resume](https://github.com/Mickeeyee/Mickeeyee/blob/main/resume.pdf)  
 
 <!---
 Mickeeyee/Mickeeyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
