@@ -1,4 +1,6 @@
   Hi👋, I’m Mignesh Birdi (Mickeeyee)
+  ![image](https://github.com/user-attachments/assets/31e7f592-9fd1-46f6-b657-968a5f8c601f)
+
 - 👀 A passionate cloud engineer dedicated to building scalable and secure cloud solutions.    
 - 🌱 I’m currently deepening my knowledge in AWS/Azure infrastructure,serverless architectures and cloud security best practices.
 - 💞️ I’m looking to collaborate on cloud-native projects,DevOps pipelines, and security best practices. 
